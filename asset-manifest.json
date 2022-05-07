@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fyp-webportal/static/css/main.ffd4ebc4.css",
+    "main.js": "/fyp-webportal/static/js/main.46f3dd68.js",
+    "static/js/787.717e2bc1.chunk.js": "/fyp-webportal/static/js/787.717e2bc1.chunk.js",
+    "index.html": "/fyp-webportal/index.html",
+    "main.ffd4ebc4.css.map": "/fyp-webportal/static/css/main.ffd4ebc4.css.map",
+    "main.46f3dd68.js.map": "/fyp-webportal/static/js/main.46f3dd68.js.map",
+    "787.717e2bc1.chunk.js.map": "/fyp-webportal/static/js/787.717e2bc1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffd4ebc4.css",
+    "static/js/main.46f3dd68.js"
+  ]
+}
